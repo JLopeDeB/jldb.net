@@ -1,0 +1,2 @@
+Las evolución de las bases de datos relaciones es constante, alimentada por la dinámica de los nuevos requerimientos del negocio. Con ello, se magnifica el desafío de mantenerlas confiables, consistentes, performantes, seguras y redundantes. Dicho desafío 
+La Administración y el Desarrollo de Bases de Datos Relacionales tiene como objetivo
